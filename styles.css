@@ -1,0 +1,26 @@
+/* Estilos CSS para el diseño */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.equipo {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+.equipo img {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #ccc;
+}
+
+.equipo button {
+  margin-top: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
